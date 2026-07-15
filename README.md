@@ -1,3 +1,5 @@
+
+
 # Cześć, jestem Slogerski 👋
 
 Jestem pasjonatem cyberbezpieczeństwa. Interesuję się tworzeniem i rozwijaniem własnego oprogramowania.
@@ -5,6 +7,7 @@ Jestem pasjonatem cyberbezpieczeństwa. Interesuję się tworzeniem i rozwijanie
 Aktualnie pracuję nad prototypem systemu antywirusowego klasy EDR na potrzeby usługi Stingtech.pl, wykorzystując wiedzę zdobytą w ciągu ostatnich lat.
 
 ---
+
 
 ## O mnie
 
@@ -17,10 +20,9 @@ Aktualnie pracuję nad prototypem systemu antywirusowego klasy EDR na potrzeby u
 
 ## 🏆 Certyfikaty
 
-> - Oczekiwane: INF02,INF03
 > - CCNA: Introduction to Networks.
 > - CCNA: Switching, Routing, and Wireless Essentials.
-
+> - Oczekiwane: INF02,INF03
 
 
 ---
@@ -30,7 +32,10 @@ Aktualnie pracuję nad prototypem systemu antywirusowego klasy EDR na potrzeby u
 Można mnie również znaleźć na Modrinth, gdzie tworzę zarówno mody na potrzeby społeczności, jak i własne projekty.
 
 
+<img width="698" height="545" alt="image" src="https://github.com/user-attachments/assets/66ad021c-9c6c-4e7d-9539-d4286aec80a9" />
+
 🔗 Profil: **[Modrinth](https://modrinth.com/user/Slogerski)**
+
 
 ---
 
