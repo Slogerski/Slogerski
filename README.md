@@ -10,7 +10,7 @@ Aktualnie pracuję nad prototypem systemu antywirusowego klasy EDR na potrzeby u
 
 - 💻 Zajmuję się tworzeniem i rozwijaniem projektów programistycznych
 - 🧠 Regularnie rozwijam kompetencje techniczne i produktowe
-- 🌍 Prowadzę własną stronę internetową: **[StingTech](https://stingtech.pl)**
+- 🌍 Staram się rozwijać działaność: **[StingTech.pl](https://stingtech.pl)**
 - 🎮 Działam na Modrinth, gdzie publikuję i rozwijam swoje projekty: **[Modrinth](https://modrinth.com/user/Slogerski)**
 
 ---
@@ -18,8 +18,8 @@ Aktualnie pracuję nad prototypem systemu antywirusowego klasy EDR na potrzeby u
 ## 🏆 Certyfikaty
 
 - Oczekiwane: INF02,INF03
-- CCNA: Introduction to Networks
-- CCNA: Switching, Routing, and Wireless Essentials
+- CCNA: Introduction to Networks.
+- CCNA: Switching, Routing, and Wireless Essentials.
 
 > Wskazówka: możesz dodać też datę uzyskania i numer credential ID.
 
@@ -42,7 +42,7 @@ Można mnie również znaleźć na Modrinth, gdzie tworzę zarówno mody na potr
 
 ## 📫 Kontakt
 
-- Strona WWW: **[StingTech](https://stingtech.pl)**
+- Strona WWW: **[StingTech.pl](https://stingtech.pl)**
 - GitHub: **[github.com/Slogerski](https://github.com/Slogerski)**
 - Modrinth: **[modrinth.com](https://modrinth.com/user/Slogerski)**
 
