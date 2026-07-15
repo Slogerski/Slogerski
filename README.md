@@ -9,7 +9,7 @@ Aktualnie pracuję nad prototypem systemu antywirusowego klasy EDR na potrzeby u
 ## O mnie
 
 - 💻 Zajmuję się tworzeniem i rozwijaniem projektów programistycznych
-- 🧠 Regularnie rozwijam kompetencje techniczne i produktowe
+- 🧠 Regularnie rozwijam kompetencje techniczne
 - 🌍 Staram się rozwijać działaność: **[StingTech.pl](https://stingtech.pl)**
 - 🎮 Działam na Modrinth, gdzie publikuję i rozwijam swoje projekty: **[Modrinth](https://modrinth.com/user/Slogerski)**
 
