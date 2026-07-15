@@ -36,7 +36,7 @@ Można mnie również znaleźć na Modrinth, gdzie tworzę zarówno mody na potr
 
 ## 📌 Wybrane projekty
 
-- **[Projekt 1](https://github.com/Slogerski/Statistica)**
+- **[Statistica](https://github.com/Slogerski/Statistica)**
 
 ---
 
