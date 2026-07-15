@@ -17,11 +17,11 @@ Aktualnie pracuję nad prototypem systemu antywirusowego klasy EDR na potrzeby u
 
 ## 🏆 Certyfikaty
 
-- Oczekiwane: INF02,INF03
-- CCNA: Introduction to Networks.
-- CCNA: Switching, Routing, and Wireless Essentials.
+> - Oczekiwane: INF02,INF03
+> - CCNA: Introduction to Networks.
+> - CCNA: Switching, Routing, and Wireless Essentials.
 
-> Wskazówka: możesz dodać też datę uzyskania i numer credential ID.
+
 
 ---
 
