@@ -15,7 +15,7 @@ Aktualnie pracuję nad prototypem systemu antywirusowego klasy EDR na potrzeby u
 - 🌍 Staram się rozwijać działaność: **[StingTech.pl](https://stingtech.pl)**
 - 🎮 Działam na Modrinth, gdzie publikuję i rozwijam swoje projekty: **[Modrinth](https://modrinth.com/user/Slogerski)**
 
-<img  width="958" height="auto" alt="image" src="https://raw.githubusercontent.com/MfrankUg/MfrankUg/output/github-contribution-grid-snake.svg" />
+<img  width="958" height="auto" alt="image" src="https://raw.githubusercontent.com/Slogerski/Slogerski/refs/heads/main/snake.svg" />
 
 
 ---
