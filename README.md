@@ -28,9 +28,18 @@ Rozwijam również prototyp systemu ochrony klasy EDR powiązany ze **[StingTech
 
 ---
 
+## 📊 Aktywność
+
+<p align="center">
+  <img width="958" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Slogerski/Slogerski/refs/heads/main/snake.svg">
+</p>
+
+---
+
+
 ## 🧭 WaypointsPlus One
 
-**WaypointsPlus One** to lekki, kliencki mod do Minecrafta przeznaczony do tworzenia i zarządzania waypointami.
+**WaypointsPlus One** to lekki, Client-side mod do Minecrafta przeznaczony do tworzenia i zarządzania waypointami.
 
 Oferuje między innymi profile waypointów przypisane do serwerów i światów, konfigurowalne oznaczenia, obsługę wielu wersji Minecrafta oraz przeliczanie pozycji pomiędzy Overworldem i Netherem.
 
@@ -69,14 +78,6 @@ Kliencki mod waypointów do Minecrafta, rozwijany z naciskiem na wydajność, cz
 ### Statistica
 
 - **[Repozytorium projektu](https://github.com/Slogerski/Statistica)**
-
----
-
-## 📊 Aktywność
-
-<p align="center">
-  <img width="958" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Slogerski/Slogerski/refs/heads/main/snake.svg">
-</p>
 
 ---
 
