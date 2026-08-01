@@ -1,6 +1,6 @@
 # Cześć, jestem Slogerski 👋
 
-Zajmuję się tworzeniem oprogramowania i rozwijaniem własnych projektów. Najbardziej interesują mnie cyberbezpieczeństwo, narzędzia ochronne oraz modyfikacje do Minecrafta.
+Zajmuję się tworzeniem oprogramowania i rozwijaniem własnych projektów. Najbardziej interesują mnie cyberbezpieczeństwo, Zabezpieczenia, Skrypty automatyzujące i kompresujące oraz modyfikacje do Minecrafta.
 
 Rozwijam również prototyp systemu ochrony klasy EDR powiązany ze **[StingTech.pl](https://stingtech.pl)**.
 
