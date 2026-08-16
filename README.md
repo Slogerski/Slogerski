@@ -5,9 +5,6 @@ Zajmuję się tworzeniem oprogramowania i rozwijaniem własnych projektów. Najb
 Rozwijam również prototyp systemu ochrony klasy EDR powiązany ze **[StingTech.pl](https://stingtech.pl)**.
 
 <p align="left">
-  <a href="https://stingtech.pl">
-    <img src="https://img.shields.io/badge/StingTech.pl-Website-6C63FF?style=for-the-badge" alt="StingTech.pl">
-  </a>
   <a href="https://modrinth.com/user/Slogerski">
     <img src="https://img.shields.io/badge/Modrinth-Slogerski-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth">
   </a>
@@ -41,14 +38,16 @@ Rozwijam również prototyp systemu ochrony klasy EDR powiązany ze **[StingTech
 
 **WaypointsPlus One** to lekki, Client-side mod do Minecrafta przeznaczony do tworzenia i zarządzania waypointami.
 
-Oferuje między innymi profile waypointów przypisane do serwerów i światów, konfigurowalne oznaczenia, obsługę wielu wersji Minecrafta oraz przeliczanie pozycji pomiędzy Overworldem i Netherem.
+Oferuje między innymi profile waypointów przypisane do serwerów i światów, konfigurowalne oznaczenia, obsługę wielu wersji Minecrafta oraz przeliczanie pozycji pomiędzy Overworldem i Netherem. 
+
+Udało nam się osiągnąć już 120 Tysięcy pobrań na modrinth!
 
 <p align="left">
-  <a href="https://www.curseforge.com/members/slogerski/projects">
-    <img src="https://img.shields.io/badge/Pobierz-CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="Pobierz z CurseForge">
-  </a>
-  <a href="https://modrinth.com/user/Slogerski">
+   <a href="https://modrinth.com/mod/waypoints-plus">
     <img src="https://img.shields.io/badge/Pobierz-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Pobierz z Modrinth">
+  </a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/waypoints-plus">
+    <img src="https://img.shields.io/badge/Pobierz-CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="Pobierz z CurseForge">
   </a>
   <a href="https://github.com/Slogerski/Waypoints-Plus">
     <img src="https://img.shields.io/badge/Kod_źródłowy-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kod źródłowy">
@@ -65,25 +64,8 @@ Oferuje między innymi profile waypointów przypisane do serwerów i światów, 
 
 ---
 
-## 📌 Wybrane projekty
-
-### WaypointsPlus One
-
-Kliencki mod waypointów do Minecrafta, rozwijany z naciskiem na wydajność, czytelny interfejs i szeroką kompatybilność wersji.
-
-- **[CurseForge](https://www.curseforge.com/members/slogerski/projects)**
-- **[Modrinth](https://modrinth.com/user/Slogerski)**
-- **[Kod źródłowy](https://github.com/Slogerski/Waypoints-Plus)**
-
-### Statistica
-
-- **[Repozytorium projektu](https://github.com/Slogerski/Statistica)**
-
----
-
 ## 📫 Kontakt i profile
 
-- Strona: **[StingTech.pl](https://stingtech.pl)**
 - GitHub: **[github.com/Slogerski](https://github.com/Slogerski)**
 - Modrinth: **[Slogerski](https://modrinth.com/user/Slogerski)**
 - CurseForge: **[Slogerski](https://www.curseforge.com/members/slogerski/projects)**
