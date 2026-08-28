@@ -60,7 +60,8 @@ Udało nam się osiągnąć już 165 Tysięcy pobrań na modrinth!
 
 - CCNA: Introduction to Networks
 - CCNA: Switching, Routing, and Wireless Essentials
-- W przygotowaniu: INF.02 oraz INF.03
+- INF.02
+- W przygotowaniu: INF.03
 
 ---
 
