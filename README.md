@@ -40,7 +40,7 @@ Rozwijam również prototyp systemu ochrony klasy EDR powiązany ze **[StingTech
 
 Oferuje między innymi profile waypointów przypisane do serwerów i światów, konfigurowalne oznaczenia, obsługę wielu wersji Minecrafta oraz przeliczanie pozycji pomiędzy Overworldem i Netherem. 
 
-Udało nam się osiągnąć już 165 Tysięcy pobrań na modrinth!
+Udało nam się osiągnąć już 350 Tysięcy pobrań na Modrinth!
 
 <p align="left">
    <a href="https://modrinth.com/mod/waypoints-plus">
