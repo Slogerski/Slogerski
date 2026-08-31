@@ -2,7 +2,6 @@
 
 Zajmuję się tworzeniem oprogramowania i rozwijaniem własnych projektów. Najbardziej interesują mnie cyberbezpieczeństwo, Zabezpieczenia, Skrypty automatyzujące i kompresujące oraz modyfikacje do Minecrafta.
 
-Rozwijam również prototyp systemu ochrony klasy EDR powiązany ze **[StingTech.pl](https://stingtech.pl)**.
 
 <p align="left">
   <a href="https://modrinth.com/user/Slogerski">
@@ -20,7 +19,6 @@ Rozwijam również prototyp systemu ochrony klasy EDR powiązany ze **[StingTech
 - 💻 Tworzę i rozwijam własne projekty programistyczne.
 - 🛡️ Interesuję się cyberbezpieczeństwem oraz systemami ochrony.
 - 🧠 Regularnie rozwijam swoje kompetencje techniczne.
-- 🌍 Rozwijam działalność **[StingTech.pl](https://stingtech.pl)**. (Aktualnie w mocnym zawieszeniu).
 - 🎮 Publikuję mody do Minecrafta na Modrinth i CurseForge.
 
 ---
@@ -34,7 +32,7 @@ Rozwijam również prototyp systemu ochrony klasy EDR powiązany ze **[StingTech
 ---
 
 
-## 🧭 WaypointsPlus One
+## 📍 WaypointsPlus 
 
 **WaypointsPlus One** to lekki, Client-side mod do Minecrafta przeznaczony do tworzenia i zarządzania waypointami.
 
