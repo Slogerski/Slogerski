@@ -16,8 +16,8 @@ Zajmuję się tworzeniem oprogramowania i rozwijaniem własnych projektów. Najb
 
 ## O mnie
 
-- 💻 Tworzę i rozwijam własne projekty programistyczne.
-- 🛡️ Interesuję się cyberbezpieczeństwem oraz systemami ochrony.
+- 💻 Tworzę i rozwijam własne projekty.
+- 🛡️ Interesuję się cyberbezpieczeństwem czytaj, oprogramowaniem antywirusowym / Analizą malware i szukaniem podatności w systemach.
 - 🧠 Regularnie rozwijam swoje kompetencje techniczne.
 - 🎮 Publikuję mody do Minecrafta na Modrinth i CurseForge.
 
