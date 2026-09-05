@@ -38,20 +38,15 @@ Zajmuję się tworzeniem oprogramowania i rozwijaniem własnych projektów. Najb
 
 Oferuje między innymi profile waypointów przypisane do serwerów i światów, konfigurowalne oznaczenia, obsługę wielu wersji Minecrafta oraz przeliczanie pozycji pomiędzy Overworldem i Netherem. 
 
-Udało nam się osiągnąć już 350 Tysięcy pobrań na Modrinth!
+Udało nam się osiągnąć już 430 Tysięcy pobrań na Modrinth!
 
-<p align="left">
-   <a href="https://modrinth.com/mod/waypoints-plus">
-    <img src="https://img.shields.io/badge/Pobierz-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Pobierz z Modrinth">
-  </a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/waypoints-plus">
-    <img src="https://img.shields.io/badge/Pobierz-CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="Pobierz z CurseForge">
-  </a>
-  <a href="https://github.com/Slogerski/Waypoints-Plus">
-    <img src="https://img.shields.io/badge/Kod_źródłowy-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kod źródłowy">
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/modrinth/dt/LWEC5GA8?style=flat-square&logo=modrinth&label=Modrinth%20Downloads&color=00AF5C" alt="Modrinth Downloads">
+  &nbsp;
+  <img src="https://img.shields.io/curseforge/dt/1626803?style=flat-square&logo=curseforge&label=CurseForge%20Downloads&color=F16436" alt="CurseForge Downloads">
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Slogerski/Waypoints-Plus?style=flat-square&logo=github&label=GitHub%20Stars" alt="GitHub Stars">
 </p>
-
 ---
 
 ## 🏆 Certyfikaty
