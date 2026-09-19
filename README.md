@@ -38,7 +38,7 @@ Zajmuję się tworzeniem oprogramowania i rozwijaniem własnych projektów. Najb
 
 Oferuje między innymi profile waypointów przypisane do serwerów i światów, konfigurowalne oznaczenia, obsługę wielu wersji Minecrafta oraz przeliczanie pozycji pomiędzy Overworldem i Netherem. 
 
-Udało nam się osiągnąć już 430 Tysięcy pobrań na Modrinth!
+Udało nam się osiągnąć już 630 Tysięcy pobrań na Modrinth!
 
 <p align="center">
   <img src="https://img.shields.io/modrinth/dt/LWEC5GA8?style=flat-square&logo=modrinth&label=Modrinth%20Downloads&color=00AF5C" alt="Modrinth Downloads">
