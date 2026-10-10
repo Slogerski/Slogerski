@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "modrinth": "https://example.com/menulab/modrinth",
+  "curseForge": "https://example.com/menulab/curseforge",
+  "source": "https://github.com/Slogerski/Slogerski",
+  "coffee": "https://example.com/menulab/donate",
+  "discord": ""
+}

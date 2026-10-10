@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "menulab-welcome",
+  "title": {
+    "en": "MenuLab",
+    "pl": "MenuLab"
+  },
+  "text": {
+    "en": "MenuLab — your mods in one place.",
+    "pl": "MenuLab — Twoje mody w jednym miejscu."
+  },
+  "targetUrl": "https://github.com/Slogerski/Slogerski",
+  "imageUrl": ""
+}
