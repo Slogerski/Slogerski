@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "id": "menulab-welcome",
+  "id": "Main",
   "title": {
-    "en": "MenuLab",
-    "pl": "MenuLab"
+    "en": "Main",
+    "pl": "Main"
   },
   "text": {
-    "en": "MenuLab — your mods in one place.",
-    "pl": "MenuLab — Twoje mody w jednym miejscu."
+    "en": "",
+    "pl": ""
   },
-  "targetUrl": "https://github.com/Slogerski/Slogerski",
-  "imageUrl": ""
+  "targetUrl": "https://discord.gg/FKJNudrsEu",
+  "imageUrl": "https://raw.githubusercontent.com/Slogerski/Slogerski/main/MainBanner.png"
 }
