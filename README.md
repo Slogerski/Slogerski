@@ -12,16 +12,6 @@ Zajmuję się tworzeniem oprogramowania i rozwijaniem własnych projektów. Najb
   </a>
 </p>
 
----
-
-## O mnie
-
-- 💻 Tworzę i rozwijam własne projekty.
-- 🛡️ Interesuję się cyberbezpieczeństwem czytaj, oprogramowaniem antywirusowym / Analizą malware i szukaniem podatności w systemach.
-- 🧠 Regularnie rozwijam swoje kompetencje techniczne.
-- 🎮 Publikuję mody do Minecrafta na Modrinth i CurseForge.
-
----
 
 ## 📊 Aktywność
 
@@ -29,24 +19,6 @@ Zajmuję się tworzeniem oprogramowania i rozwijaniem własnych projektów. Najb
   <img width="958" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Slogerski/Slogerski/refs/heads/main/snake.svg">
 </p>
 
----
-
-
-## 📍 WaypointsPlus 
-
-**WaypointsPlus One** to lekki, Client-side mod do Minecrafta przeznaczony do tworzenia i zarządzania waypointami.
-
-Oferuje między innymi profile waypointów przypisane do serwerów i światów, konfigurowalne oznaczenia, obsługę wielu wersji Minecrafta oraz przeliczanie pozycji pomiędzy Overworldem i Netherem. 
-
-Udało nam się osiągnąć już 630 Tysięcy pobrań na Modrinth!
-
-<p align="center">
-  <img src="https://img.shields.io/modrinth/dt/LWEC5GA8?style=flat-square&logo=modrinth&label=Modrinth%20Downloads&color=00AF5C" alt="Modrinth Downloads">
-  &nbsp;
-  <img src="https://img.shields.io/curseforge/dt/1626803?style=flat-square&logo=curseforge&label=CurseForge%20Downloads&color=F16436" alt="CurseForge Downloads">
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Slogerski/Waypoints-Plus?style=flat-square&logo=github&label=GitHub%20Stars" alt="GitHub Stars">
-</p>
 ---
 
 ## 🏆 Certyfikaty
